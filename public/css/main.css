@@ -1,0 +1,25 @@
+body { 
+    background-color: #000099;
+    color: gold;
+    text-align: left;
+    padding: 15px 25px;
+    font-size: 30px;
+}
+
+table {
+    border-collapse: collapse;
+   }
+   
+   table, th, td {
+    border: 3px solid white;
+   }
+
+button {
+    border: none;
+    color: gold;
+    background-color: black;
+    text-align: left;
+    display: inline-block;
+    font-size: 30px;
+    padding: 15px 25px;
+};
